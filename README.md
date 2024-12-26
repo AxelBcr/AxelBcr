@@ -6,7 +6,6 @@ Passionate about programming, data analysis, and statistics. Proactive, calm, an
 
 ## 📫 Contact Information
 Email: axelbouchaudroche@gmail.com  
-Phone: +33 6 36 15 81 57  
 [GitHub](https://github.com/AxelBcr)   
 
 ---
