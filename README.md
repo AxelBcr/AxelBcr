@@ -78,4 +78,5 @@ Email: axelbouchaudroche@gmail.com
 
 ## 📝 Projects  
 
-Check out my GitHub for ongoing and completed projects
+Check out my GitHub for ongoing and completed projects    
+Try my GPT : https://chatgpt.com/g/g-677147c6c9d48191aeed8712d8391ab1-vermeil
