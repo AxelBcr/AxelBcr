@@ -80,5 +80,5 @@ Email: axelbouchaudroche@gmail.com
 
 Check out my GitHub for ongoing and completed projects    
 ### Try my GPTs : 
-[Vermeil Chess GPT](https://chatgpt.com/g/g-677147c6c9d48191aeed8712d8391ab1-vermeil)    
-[Pix.fr Skills Assisstant GPT](https://chatgpt.com/g/g-67731ae284c881919e7766ea365e2fb4-pix-fr-skills-assistant)
+[Vermeil Chess GPT](https://chatgpt.com/g/g-677147c6c9d48191aeed8712d8391ab1-vermeil-chess)    
+[Pix.fr AI GPT](https://chatgpt.com/g/g-67731ae284c881919e7766ea365e2fb4-pix-fr-ai)
