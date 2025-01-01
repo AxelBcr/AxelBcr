@@ -1,84 +1,87 @@
-# 👨‍💻 Axel Bouchaud-Roche
-🎓 First-year Bachelor student in Business Data Science at UCO (Angers, France). 
-Passionate about programming, data analysis, and statistics. Proactive, calm, and innovative, always eager to explore new challenges and develop technical skills.
+# 👨‍💻 **Axel Bouchaud-Roche**  
+🎓 *Bachelor Student in Business Data Science* | Passionate about Machine Learning, AI, and Programming  
 
 ---
 
-## 📫 Contact Information
-Email: axelbouchaudroche@gmail.com  
-[GitHub](https://github.com/AxelBcr)   
+## 📫 **Contact Information**  
+- **Email**: [axelbouchaudroche@gmail.com](mailto:axelbouchaudroche@gmail.com)  
+- **GitHub**: [AxelBcr](https://github.com/AxelBcr)  
 
 ---
 
-## 🎓 Education
+## 🎓 **Education**  
+### **UCO, Angers (2024–Present)**  
+- **Degree**: Bachelor in Business Data Science  
+- **Focus Areas**: Programming, Data Analysis, and Economics  
+- **Notable Courses**:  
+  - Descriptive Statistics, Probability  
+  - Advanced Algebra, Machine Learning Basics  
 
-### UCO, Angers (2024–Present)
-    Bachelor in Business Data Science  
-      Focus: Programming, Data Analysis, Economics
-      Coursework: Descriptive Statistics, Probability, Advanced Algebra  
-
-### Lycée Saint Benoît, Angers (2021–2024)
-    Baccalauréat Général  
-      Specializations: Mathematics, NSI (Numerical and Computer Sciences)
-      Honors: Mention "Bien"  
-
-### Collège Saint Laud, Les Ponts-de-Cé (2016–2020)
-    Diploma: Brevet with Mention "Bien"  
+### **Lycée Saint Benoît, Angers (2021–2024)**  
+- **Baccalauréat Général** – Honors: *Mention "Bien"*  
+- **Specializations**: Mathematics, NSI (Numerical and Computer Sciences)  
 
 ---
 
-## 💻 Technical Skills
+## 💻 **Technical Skills**  
+### **Programming Languages:**  
+- **Python**: Machine Learning models, Reinforcement Learning, Data Analysis Scripts.  
+- **SQL**: Database design and querying.  
+- **Excel**: Data processing and automation.  
 
-### Programming Languages:   
+### **AI Tools :**    
+- **GPT Models**: Fine-tuning of specialized models.  
 
-    Python : Developing GitHub projects, including Reinforcement Learning Navigating Drone.  
-    SQL (SQL Server) : Database design and analytical tasks.  
-    Excel : Workflow automation and data analysis.  
-
-### Data Analysis Tools:
-
-    Descriptive statistics and probability analysis.  
-    General Economy, macroeconomic studies.  
-
-### Soft Skills: 
-
-    Communication's Basics Courses, Language Studies
-    Teamwork and adaptability
+### **Soft Skills:**  
+- Effective communication, teamwork, adaptability, and problem-solving.  
 
 ---
 
-## 🛠️ Professional Experience  
+## 🛠️ **Professional Experience**  
+### **Docteur Ordinateur (Angers, France) – 5 weeks, 2021**  
+- Repaired and reconditioned PCs and phones.  
+- Optimized troubleshooting workflows.  
 
-### Docteur Ordinateur (Angers, France) (5 weeks, 2021) :
-
-    Repaired and reconditioned PCs and phones.
-    Optimized troubleshooting workflows.  
-
-### Info-Dépanne 49 (Les Ponts de Cé, France) (1 week, 2020) : 
-
-    Assisted in PC repairs and observed customer interaction techniques.  
+### **Info-Dépanne 49 (Les Ponts de Cé, France) – 1 week, 2020**  
+- Assisted in PC repairs and observed customer interaction techniques.  
 
 ---
 
-## 🌐 Languages  
+## 📝 **Highlighted Projects**  
+### **Machine Learning Projects**  
+- **Reinforcement Learning Navigating Drone** – Autonomous exploration using Python and ML algorithms.    
 
-    French: Native  
-    English: B2 Level (Intermediate-Advanced)  
-    Training in general and advanced English.  
-
----
-
-## 🎸 Interests  
-    
-    Kendo: Practicing discipline and focus.  
-    Electric Guitar: Enhancing creativity and patience.   
-    Programming: Exploration and Curiosity.  
+### **GPT Models**  
+- [Vermeil Chess GPT](https://chatgpt.com/g/g-677147c6c9d48191aeed8712d8391ab1-vermeil-chess) – AI-based Chess Engine.  
+- [Pix.fr AI GPT](https://chatgpt.com/g/g-67731ae284c881919e7766ea365e2fb4-pix-fr-ai) – AI-driven image analysis tool.  
 
 ---
 
-## 📝 Projects  
+## 📊 **GitHub Stats & Activity**  
+![Axel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxelBcr&show_icons=true&theme=radical&cache_seconds=1)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelBcr&layout=compact&theme=radical&cache_seconds=1)  
 
-Check out my GitHub for ongoing and completed projects    
-### Try my GPTs : 
-[Vermeil Chess GPT](https://chatgpt.com/g/g-677147c6c9d48191aeed8712d8391ab1-vermeil-chess)    
-[Pix.fr AI GPT](https://chatgpt.com/g/g-67731ae284c881919e7766ea365e2fb4-pix-fr-ai)
+---
+
+## 🌐 **Languages**  
+- **French**: Native  
+- **English**: B2 Level (Intermediate-Advanced)  
+
+---
+
+## 🎸 **Interests**  
+- **Kendo** – Focus and discipline through martial arts.  
+- **Electric Guitar** – Creativity and patience.  
+- **Programming** – Continuous exploration of AI and automation.  
+
+---
+
+## 💼 **Freelance Availability**  
+I’m currently a **student**, but I’m open to **part-time freelance opportunities** for:  
+- Developing Small Machine Learning scripts.  
+- Creating custom GPT-based solutions.  
+- Data analysis and automation tasks.  
+
+📩 *Feel free to contact me for collaborations or inquiries via email.*  
+
+---
