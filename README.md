@@ -25,7 +25,7 @@
 
 ## 💻 **Technical Skills**  
 ### **Programming Languages:**  
-- **Python**: Machine Learning models, Reinforcement Learning, Data Analysis Scripts.  
+- **Python**: Starting Reinforcement Learning, Data Analysis Scripts.  
 - **SQL**: Database design and querying.  
 - **Excel**: Data processing and automation.  
 
