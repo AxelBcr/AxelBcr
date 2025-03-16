@@ -49,7 +49,7 @@
 
 ## 📝 **Highlighted Projects**   
 - **Reinforcement Learning Navigating Drone** – Autonomous exploration using Python and ML algorithms.  
-- **Sentiment Analysis Tool** – Logistic Regression and VADER Sentiment Analysis to classify text data.  
+- **PoB_Build_Decompressor** - Decompresses a base64-encoded and zlib-compressed SVG file to a JSON file.
 ---
 
 ## 📊 **GitHub Stats & Activity**  
