@@ -50,10 +50,6 @@
 ## 📝 **Highlighted Projects**   
 - **Reinforcement Learning Navigating Drone** – Autonomous exploration using Python and ML algorithms.  
 - **Sentiment Analysis Tool** – Logistic Regression and VADER Sentiment Analysis to classify text data.  
-
-### **GPT Models**  
-- [Vermeil Chess GPT](https://chatgpt.com/g/g-677147c6c9d48191aeed8712d8391ab1-vermeil-chess) – AI-based Chess Engine.  
-
 ---
 
 ## 📊 **GitHub Stats & Activity**  
