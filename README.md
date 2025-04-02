@@ -50,11 +50,6 @@
 ## 📝 **Highlighted Projects**   
 - **Reinforcement Learning Navigating Drone** – Autonomous exploration using Python and ML algorithms.  
 - **PoB_Build_Decompressor** - Decompresses a base64-encoded and zlib-compressed SVG file to a JSON file.
----
-
-## 📊 **GitHub Stats & Activity**  
-![Axel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AxelBcr&show_icons=true&theme=radical&cache_seconds=1)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AxelBcr&layout=compact&theme=radical&cache_seconds=1)  
 
 ---
 
