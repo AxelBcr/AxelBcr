@@ -54,10 +54,7 @@
 
 
 ## 💼 **Freelance Availability**  
-I’m currently a **student**, but I’m open to **part-time freelance opportunities** for:  
-- Developing Small Machine Learning scripts.  
-- Creating custom GPT-based solutions.  
-- Data analysis and automation tasks.  
+I’m currently a **student**, but I’m open to **part-time freelance opportunities** for Data analysis and automation tasks.  
 
 📩 *Feel free to contact me for collaborations or inquiries via email.*  
 
