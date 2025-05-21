@@ -27,10 +27,7 @@
 ### **Programming Languages:**  
 - **Python**: Starting Reinforcement Learning, Data Analysis Scripts.  
 - **SQL**: Database design and querying.  
-- **Excel**: Data processing and automation.  
-
-### **AI Tools :**    
-- **GPT Models**: Fine-tuning of specialized models.  
+- **Excel**: Data processing and automation.    
 
 ### **Soft Skills:**  
 - Effective communication, teamwork, adaptability, and problem-solving.  
