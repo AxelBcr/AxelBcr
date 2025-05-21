@@ -27,7 +27,8 @@
 ### **Programming Languages:**  
 - **Python**: Starting Reinforcement Learning, Data Analysis Scripts.  
 - **SQL**: Database design and querying.  
-- **Excel**: Data processing and automation.    
+- **Excel**: Data processing and automation.
+- **Power BI**: Data visualization and Dashboards.
 
 ### **Soft Skills:**  
 - Effective communication, teamwork, adaptability, and problem-solving.  
@@ -37,10 +38,7 @@
 ## 🛠️ **Professional Experience**  
 ### **Docteur Ordinateur (Angers, France) – 5 weeks, 2021**  
 - Repaired and reconditioned PCs and phones.  
-- Optimized troubleshooting workflows.  
-
-### **Info-Dépanne 49 (Les Ponts de Cé, France) – 1 week, 2020**  
-- Assisted in PC repairs and observed customer interaction techniques.  
+- Optimized troubleshooting workflows.   
 
 ---
 
@@ -54,14 +52,6 @@
 - **French**: Native  
 - **English**: B2 Level (Intermediate-Advanced)  
 
----
-
-## 🎸 **Interests**  
-- **Kendo** – Focus and discipline through martial arts.  
-- **Electric Guitar** – Creativity and patience.  
-- **Programming** – Continuous exploration of AI and automation.  
-
----
 
 ## 💼 **Freelance Availability**  
 I’m currently a **student**, but I’m open to **part-time freelance opportunities** for:  
