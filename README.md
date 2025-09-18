@@ -27,7 +27,7 @@ I'm **Axel**, 20 years old <br><br>
 ---
 
 ### 📫 Reach me  
-<a href="[Linkedin](https://www.linkedin.com/in/axel-bouchaud-roche-692743359/)" target="_blank">
+<a href="https://www.linkedin.com/in/axel-bouchaud-roche-692743359/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:axelbouchaudroche@gmail.com">
