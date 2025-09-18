@@ -16,11 +16,11 @@
     </td>
     <td align="center">
       <img src="assets/python.png" width="40" /><br>
-      <a href="https://www.jetbrains.com/fr-fr/pycharm/" target="_blank" >
+      <a href="https://www.jetbrains.com/pycharm/" target="_blank" >
       <b>Python developer</b>
     </td>
     <td align="center">
-      <a href="https://www.investing.com/" target="_blank" >
+      <a href="https://www.investing.com/members/267075101" target="_blank" >
       <img src="assets/investing.png" width="40" /><br>
       <b>Stock market investor</b>
     </td>
