@@ -6,7 +6,7 @@
 `Make yourself at home — explore, fork, and say hi.`
 
 
-<img src="assets/snake_banner.gif" width="515" />
+<img src="assets/snake_banner.gif" width="500" />
 
 <table>
   <tr>
@@ -29,7 +29,7 @@
 </table>
 
 
-<img src="assets/stock_banner.gif" width="515" height="150" />
+<img src="assets/cat_banner.gif" width="500" height="150" />
 
 ---
 
