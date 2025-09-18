@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi there, welcome to my profile  
-
-### I'm **Axel**, 20 years old <br><br>
+<p align="center">
+  <img src="assets/welcome.svg" alt="Hi there, welcome to my GitHub" />
+</p>
 
 <img src="assets/snake_banner.gif" width="515" />
 
