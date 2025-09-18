@@ -15,7 +15,7 @@ I'm **Axel**, 20 years old:
       <b>Python developer</b>
     </td>
     <td align="center">
-      <img src="assets/stocks.png" width="40" /><br>
+      <img src="assets/investing.png" width="40" /><br>
       <b>Stock market investor</b>
     </td>
   </tr>
