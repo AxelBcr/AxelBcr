@@ -28,6 +28,10 @@ I'm **Axel**, 20 years old <br><br>
 
 ---
 
+<img src="assets/stock_banner.gif" width="600" height="150" />
+
+---
+
 ### 📫 Reach me  
 <a href="https://www.linkedin.com/in/axel-bouchaud-roche-692743359/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
