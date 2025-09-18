@@ -26,9 +26,8 @@ I'm **Axel**, 20 years old <br><br>
   </tr>
 </table>
 
----
 
-<img src="assets/stock_banner.gif" width="600" height="150" />
+<img src="assets/stock_banner.gif" width="515" height="150" />
 
 ---
 
@@ -39,4 +38,7 @@ I'm **Axel**, 20 years old <br><br>
 <a href="mailto:axelbouchaudroche@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+---
+<img src="assets/python_line.gif" width="600" />
 </div>
