@@ -30,9 +30,4 @@ I'm **Axel**, 20 years old:
 <a href="mailto:axelbouchaudroche@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-### 📄 Resume  
-<a href="resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
 </div>
