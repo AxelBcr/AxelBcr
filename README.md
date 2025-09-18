@@ -1,8 +1,9 @@
 <div align="center">
 
-<p align="center">
-  <img src="assets/welcome.svg" alt="Hi there, welcome to my GitHub" />
-</p>
+
+## **Welcome**
+> Make yourself at home — explore, fork, and say hi.
+
 
 <img src="assets/snake_banner.gif" width="515" />
 
