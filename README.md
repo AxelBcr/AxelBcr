@@ -28,7 +28,7 @@ I'm **Axel**, 20 years old <br><br>
 
 ---
 
-<img src="assets/stock_market_banner.gif" width="600" height="150" />
+<img src="assets/stock_banner.gif" width="600" height="150" />
 
 ---
 
