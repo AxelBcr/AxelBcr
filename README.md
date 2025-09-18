@@ -13,17 +13,17 @@
     <td align="center">
       <img src="assets/ima.png" width="40" /><br>
       <a href="https://www.uco.fr/fr/formations/sciences/bachelor-business-data-science" target="_blank" >
-      <b>Data Science student</b>
+      <b>Data Science Student</b>
     </td>
     <td align="center">
       <img src="assets/python.png" width="40" /><br>
       <a href="https://www.jetbrains.com/pycharm/" target="_blank" >
-      <b>Python developer</b>
+      <b>Python Developer</b>
     </td>
     <td align="center">
       <a href="https://www.investing.com/members/267075101" target="_blank" >
       <img src="assets/investing.png" width="40" /><br>
-      <b>Stock market investor</b>
+      <b>Stock Market Investor</b>
     </td>
   </tr>
 </table>
