@@ -2,7 +2,8 @@
 
 
 ## **Welcome**
-> Make yourself at home — explore, fork, and say hi.
+
+`Make yourself at home — explore, fork, and say hi.`
 
 
 <img src="assets/snake_banner.gif" width="515" />
