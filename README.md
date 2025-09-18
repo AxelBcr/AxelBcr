@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/snake_banner.gif" width="480" />
+
 # 👋 Hi there, welcome to my profile  
 
 I'm **Axel**, 20 years old <br><br>
