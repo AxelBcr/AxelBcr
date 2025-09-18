@@ -2,7 +2,7 @@
 
 # 👋 Hi there, welcome to my profile  
 
-I'm **Axel**, 20 years old <br><br>
+### I'm **Axel**, 20 years old <br><br>
 
 <img src="assets/snake_banner.gif" width="515" />
 
